@@ -1,5 +1,8 @@
 # Proyecto - Lenguajes Formales y Autómatas
 
+Diego Javier Morales Monzón - 1132119
+José Daniel De León Chang - 1170419
+
 ## Código fuente c#
 >El código fuente del proyecto se encuentra en al carpeta "Proyecto_LFA"
 
