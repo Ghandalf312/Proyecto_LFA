@@ -4,7 +4,7 @@
 - José Daniel De León Chang - 1170419
 
 ## Código fuente c#
->El código fuente del proyecto se encuentra en al carpeta "Proyecto_LFA"
+>El código fuente del proyecto se encuentra abriendo "Proyecto_LFA.sln"
 
 ## Ejecutable
 >El ejecutable se encuentra en /Ejecutable/Proyecto_LFA.exe
