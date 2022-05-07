@@ -1,4 +1,4 @@
-# Proyecto Lenguajes Formales y Autómatas
+# Proyecto - Lenguajes Formales y Autómatas
 
 ## Código fuente c#
 >El código fuente del proyecto se encuentra en al carpeta "Proyecto_LFA"
